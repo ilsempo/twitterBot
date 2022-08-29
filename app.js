@@ -69,5 +69,5 @@ const refreshear = () => {
 
 
 
-setInterval(() => refreshear() , 25 * 60 * 60 * 1000);
+setInterval(refreshear , 25 * 60 * 60 * 1000);
 
